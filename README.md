@@ -4,7 +4,9 @@ Here's a screenshot of the final look of the project
 
 
 ## Parallax Effect
-![](mouse-effect.gif)
+<img src="mouse-effect.gif" width="100%">
+
+<!-- ![](mouse-effect.gif) -->
 
 
 
